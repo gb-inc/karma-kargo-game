@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-03-10
+
+### Fixed
+
+- Fixed crash when starting a new game on a fresh installation
+- Fixed theme colors not loading correctly on first launch
+
 ## [0.1.0] - 2026-03-08
 
 ### Added
@@ -64,5 +71,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Buttons render with a vertical gradient fill and highlight/shadow edge lines,
   giving them a 3D appearance
 
-[Unreleased]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/gb-inc/karma-kargo-game/commits/v0.1.0
