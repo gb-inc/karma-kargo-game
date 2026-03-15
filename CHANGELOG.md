@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-03-15
+
+### Added
+
+- Opening story sequence ("Adrift") — a 4-panel cinematic introduction shown when starting a new game, featuring typewriter-style text reveal and crossfade transitions between art panels
+
 ## [0.1.2] - 2026-03-14
 
 ### Fixed
@@ -79,7 +85,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Buttons render with a vertical gradient fill and highlight/shadow edge lines,
   giving them a 3D appearance
 
-[Unreleased]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.2...HEAD
+[Unreleased]: https://github.com/gb-inc/karma-kargo-game/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.2...v0.2.0
 [0.1.2]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/gb-inc/karma-kargo-game/commits/v0.1.0
