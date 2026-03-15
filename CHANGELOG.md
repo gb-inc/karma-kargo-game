@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-03-14
+
+### Fixed
+
+- Fixed text clipping and layout overflow on displays with DPI scaling above 100%
+- Fixed commodity and ship icons not appearing in the game
+- Fixed application process remaining in the background after closing the window
+
 ## [0.1.1] - 2026-03-10
 
 ### Fixed
@@ -71,6 +79,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Buttons render with a vertical gradient fill and highlight/shadow edge lines,
   giving them a 3D appearance
 
-[Unreleased]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.2...HEAD
+[0.1.2]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/gb-inc/karma-kargo-game/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/gb-inc/karma-kargo-game/commits/v0.1.0
